@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ARFoundationSite/static/css/main.0dd0e394.chunk.css",
+    "main.js": "/ARFoundationSite/static/js/main.11abdc31.chunk.js",
+    "main.js.map": "/ARFoundationSite/static/js/main.11abdc31.chunk.js.map",
+    "runtime-main.js": "/ARFoundationSite/static/js/runtime-main.706e155c.js",
+    "runtime-main.js.map": "/ARFoundationSite/static/js/runtime-main.706e155c.js.map",
+    "static/js/2.bf2b1fe8.chunk.js": "/ARFoundationSite/static/js/2.bf2b1fe8.chunk.js",
+    "static/js/2.bf2b1fe8.chunk.js.map": "/ARFoundationSite/static/js/2.bf2b1fe8.chunk.js.map",
+    "static/js/3.bbff7e61.chunk.js": "/ARFoundationSite/static/js/3.bbff7e61.chunk.js",
+    "static/js/3.bbff7e61.chunk.js.map": "/ARFoundationSite/static/js/3.bbff7e61.chunk.js.map",
+    "index.html": "/ARFoundationSite/index.html",
+    "static/css/main.0dd0e394.chunk.css.map": "/ARFoundationSite/static/css/main.0dd0e394.chunk.css.map",
+    "static/js/2.bf2b1fe8.chunk.js.LICENSE.txt": "/ARFoundationSite/static/js/2.bf2b1fe8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.706e155c.js",
+    "static/js/2.bf2b1fe8.chunk.js",
+    "static/css/main.0dd0e394.chunk.css",
+    "static/js/main.11abdc31.chunk.js"
+  ]
+}
